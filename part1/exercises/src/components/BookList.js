@@ -1,3 +1,6 @@
+import "./BookList.css";
+
+
 export default function BookList() {
    let pageTitle = "Books I Read this Month";
    let book1 = "https://m.media-amazon.com/images/I/81XjALHfqkL._AC_UF1000,1000_QL80_.jpg";
