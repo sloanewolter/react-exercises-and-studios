@@ -1,17 +1,15 @@
 [
    {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+     "name": "Quick and Easy Chocolate Fudge",
+     "author": "Lindsay",
+     "description": "This Easy Chocolate Fudge recipe is made with just 3 ingredients! Chocolate chips, sweetened condensed milk and vanilla come together to make a homemade fudge that’s bursting with chocolate flavor. It’s a simple treat to put together for gifts and sharing this holiday season.",
+     "website": "https://www.lifeloveandsugar.com/quick-and-easy-chocolate-fudge/",
+     "recipeImage": "https://www.lifeloveandsugar.com/wp-content/uploads/2018/12/Quick-Easy-Chocolate-Fudge4.jpg",
+     "authorImage": "https://www.lifeloveandsugar.com/wp-content/uploads/2012/06/about1.jpg",
      "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
-       "heavy cream",
-       "milk"
+       "chocolate chips",
+       "sweetened condensed milk",
+       "vanilla"
      ]
    }
  ]
