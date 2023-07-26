@@ -1,0 +1,49 @@
+{"projects" : [
+
+{
+    "poseNameSanskrit":"Kakasana",
+    "poseNameEnglish":"Crow Pose",
+    "difficultyLevel": "hard",
+    "imageURL": "https://cdn.yogajournal.com/wp-content/uploads/2021/12/Crow-Crane-Pose_Andrew-Clark_2400x1350.jpeg?crop=16:9&width=1500"
+
+},
+
+
+{
+    "poseNameSanskrit": "Ardha Chandrasana",
+    "poseNameEnglish": "Half-Moon Pose",
+    "difficultyLevel":"medium",
+    "imageURL": "https://cdn.yogajournal.com/wp-content/uploads/2007/08/Half-Moon-Pose_Andrew-Clark_2400x1350.jpeg?crop=16:9&width=1500"
+
+},
+
+
+{
+    "poseNameSanskrit": "Uttanasana",
+    "poseNameEnglish": "Standing Forward Bend",
+    "difficultyLevel":"easy",
+    "imageURL": "https://cdn.yogajournal.com/wp-content/uploads/2021/11/Uttanasana-Pose_Andrew-Clark_2400x1350.jpeg?crop=16:9&width=1500"
+
+},
+
+
+{
+    "poseNameSanskrit": "Urdhva Dhanurasana",
+    "poseNameEnglish": "Wheel Pose",
+    "difficultyLevel": "hard",
+    "imageURL": "https://cdn.yogajournal.com/wp-content/uploads/2007/08/Upward-Facing-Bow-Wheel_Andrew-Clark_1.jpg?crop=16:9&width=1500"
+
+},
+
+
+{
+    "poseNameSanskrit": "Virabhadrasana III",
+    "poseNameEnglish": "Warrior 3",
+    "difficultyLevel": "medium",
+    "imageURL": "https://cdn.yogajournal.com/wp-content/uploads/2021/11/Warrior-3-Pose_Andrew-Clark_2400x1350.jpeg?crop=16:9&width=1500"
+
+}
+
+
+]}
+
